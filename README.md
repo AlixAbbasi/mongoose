@@ -3,10 +3,7 @@ Mongoose is an embedded HTTP and WebSocket library that can turn anything into a
 
 Mongoose Binary is built on top of Mongoose Library which is used to serve Web GUI on embedded devices, implement RESTful services, RPC frameworks (e.g. JSON-RPC), handle telemetry data exchange and perform many other tasks. You'll find it used across various industries including aerospace, manufacturing, finance, research, automotive, gaming, IT and many more.
 
-Nothing overdone. Nothing less. So unbelievably easy to use. Just how good software should be! - Pritin Tyagaraj, SAP
-Download Mongoose Source Code here
-
-Are you an embedded developer? Working on an embedded task? Check out our embedded development products to make the right choice for your project.
+Nothing overdone. Nothing less. So unbelievably easy to use. Just how good software should be! 
 
 #Technical Specification
 Works on Windows, Mac, UNIX/Linux, iPhone, Android eCos, QNX
